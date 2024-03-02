@@ -3,9 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index</title>
+    <title>Login</title>
 </head>
 <body>
+    <div class="cointainer">
+        <div class="login">
+            
+        </div>
+    </div>
     <h1>Selamat Datang</h1>
     <p>MY Name</p>
 </body>
